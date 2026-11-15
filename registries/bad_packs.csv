@@ -1,0 +1,2 @@
+包文件,包月,字节数,错误类型,错误信息
+2026-06.tar.gz,2026-06,854,ReadError,zlib error: Error -3 while decompressing data: invalid bit length repeat
